@@ -1,0 +1,28 @@
+#profilphoto {
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+}
+#profildiv {
+    width: 100%;
+    border-radius: 10px;
+}
+#btnprofil{
+    border-radius: 5px !important;
+}
+#navlist{
+    width: 200px !important;
+}
+.amenu{
+    color: white !important;
+    text-decoration: none !important;
+}
+#imageexperience {
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+}
+.mdbocasay {
+    width: 100%;
+  
+}
